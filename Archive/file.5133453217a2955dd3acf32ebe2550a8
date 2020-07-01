@@ -1,0 +1,163 @@
+0 remained
+                                                  url  \
+0   https://sunnybrook.ca/research/media/item.asp?...   
+1   https://www.cdc.gov/coronavirus/2019-nCoV/summ...   
+2   https://theconversation.com/coronavirus-and-ca...   
+3   https://www.abc.net.au/news/2020-06-28/world-r...   
+4   https://www.medrxiv.org/content/10.1101/2020.0...   
+5   https://www.cdc.gov/coronavirus/2019-ncov/prev...   
+6   https://www.dailysabah.com/life/health/how-ris...   
+7   https://www.nytimes.com/2020/06/24/health/coro...   
+8   https://www.cdc.gov/coronavirus/2019-ncov/need...   
+9   https://www.cdc.gov/diabetes/managing/flu-sick...   
+10         https://www.cdc.gov/heartdisease/index.htm   
+11  https://www.cdc.gov/healthyweight/assessing/bm...   
+12  https://www.cdc.gov/diabetes/managing/problems...   
+13  https://www.businessinsider.com/riskiest-to-le...   
+14           https://www.bbc.com/news/health-52849691   
+15  https://theconversation.com/americans-disagree...   
+
+                                                 text overconfidence  \
+0   A team of researchers from Sunnybrook, McMaste...             []   
+1                                                 NaN             []   
+2              Editions    Africa  Australia  Cana...             []   
+3        Skip to main content ABC News Homepage Se...             []   
+4           Skip to main content                  ...             []   
+5                                                S...             []   
+6   Most of the world, including Turkey, has start...             []   
+7   Scientists in Britain announced a major breakt...             []   
+8                                               Sk...             []   
+9                              Skip directly to si...             []   
+10                                 Skip directly t...             []   
+11                                 Skip directly t...             []   
+12                           Skip directly to site...             []   
+13                                         The wor...             []   
+14          Homepage Accessibility links Skip to c...             []   
+15             Editions    Africa  Australia  Cana...             []   
+
+   base rate fallacy  \
+0                 []   
+1                 []   
+2                 []   
+3                 []   
+4                 []   
+5                 []   
+6                 []   
+7                 []   
+8                 []   
+9                 []   
+10                []   
+11                []   
+12                []   
+13                []   
+14                []   
+15                []   
+
+   Non-linear probability weighting, certainty effect (optimism)  \
+0                                                  []              
+1                                                  []              
+2                                                  []              
+3                                                  []              
+4                                                  []              
+5                                                  []              
+6                                                  []              
+7                                                  []              
+8                                                  []              
+9                                                  []              
+10                                                 []              
+11                                                 []              
+12                                                 []              
+13                                                 []              
+14                                                 []              
+15                                                 []              
+
+   Non-linear probability weighting, certainty effect (pessimism)  \
+0                                                  []               
+1                                                  []               
+2                                                  []               
+3                                                  []               
+4                                                  []               
+5                                                  []               
+6                                                  []               
+7                                                  []               
+8                                                  []               
+9                                                  []               
+10                                                 []               
+11                                                 []               
+12                                                 []               
+13                                                 []               
+14                                                 []               
+15                                                 []               
+
+   Framing effect: risk-seeking in losses, risk aversion in gains  \
+0                                                  []               
+1                                                  []               
+2                                                  []               
+3                                                  []               
+4                                                  []               
+5                                                  []               
+6                                                  []               
+7                                                  []               
+8                                                  []               
+9                                                  []               
+10                                                 []               
+11                                                 []               
+12                                                 []               
+13                                                 []               
+14                                                 []               
+15                                                 []               
+
+   Misperception of exponential growth Loss aversion  \
+0                                   []            []   
+1                                   []            []   
+2                                   []            []   
+3                                   []            []   
+4                                   []            []   
+5                                   []            []   
+6                                   []            []   
+7                                   []            []   
+8                                   []            []   
+9                                   []            []   
+10                                  []            []   
+11                                  []            []   
+12                                  []            []   
+13                                  []            []   
+14                                  []            []   
+15                                  []            []   
+
+   Misestimation of compound probability Peer pressure  \
+0                                     []            []   
+1                                     []            []   
+2                                     []            []   
+3                                     []            []   
+4                                     []            []   
+5                                     []            []   
+6                                     []            []   
+7                                     []            []   
+8                                     []            []   
+9                                     []            []   
+10                                    []            []   
+11                                    []            []   
+12                                    []            []   
+13                                    []            []   
+14                                    []            []   
+15                                    []            []   
+
+   Inability to realize own incompetency Dunning-Kruger effect  
+0                                                  []           
+1                                                  []           
+2                                                  []           
+3                                                  []           
+4                                                  []           
+5                                                  []           
+6                                                  []           
+7                                                  []           
+8                                                  []           
+9                                                  []           
+10                                                 []           
+11                                                 []           
+12                                                 []           
+13                                                 []           
+14                                                 []           
+15                                                 []           
+output_fuzzy_search07012020153611.csv
