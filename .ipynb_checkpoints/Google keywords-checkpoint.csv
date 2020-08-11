@@ -1,0 +1,12 @@
+id,keywords
+1,it is (more risky|riskier)
+2,it is (more safe|safer)
+3,(risk|taking any risk)
+4,chance of
+5,chance (die|dying|death)
+6,(rational|irrational)
+7,(underestimate|overestimate)
+8,chance of (catching|infect|transmission|get a)
+9,chance die OR dying OR death
+10,(testing|test|blood test)
+11,(false negative|false-negative)
